@@ -231,7 +231,7 @@ Provides a high-level summary of overall manufacturing performance.
 
 ### 📷 Dashboard Preview
 
-![Executive Overview](screenshots/Executive%20Overview.PNG)
+![Executive Overview](Screenshots/Executive%20Overview.PNG)
 
 ---
 
@@ -253,7 +253,7 @@ Conditional formatting and data bars are used to make performance differences ea
 
 ### 📷 Dashboard Preview
 
-![Machine & Production Analysis](screenshots/Machine%20%26%20Production%20Analysis.PNG)
+![Machine & Production Analysis](Screenshots/Machine%20%26%20Production%20Analysis.PNG)
 
 ---
 
@@ -273,7 +273,7 @@ The analysis helps identify products and production lines associated with higher
 
 ### 📷 Dashboard Preview
 
-![Quality & Defect Analysis](screenshots/Quality%20%26%20Defect%20Analysis.PNG)
+![Quality & Defect Analysis](Screenshots/Quality%20%26%20Defect%20Analysis.PNG)
 
 ---
 
@@ -293,7 +293,7 @@ Interactive filters allow users to analyze specific periods, production lines, a
 
 ### 📷 Dashboard Preview
 
-![Production Trends](screenshots/Production%20Trends.PNG)
+![Production Trends](Screenshots/Production%20Trends.PNG)
 
 ---
 
