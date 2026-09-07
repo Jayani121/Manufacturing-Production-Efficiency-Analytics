@@ -175,6 +175,7 @@ OEE provides an overall view of manufacturing equipment effectiveness.
 The Power BI report consists of four analytical pages.
 
 1️⃣ Executive Overview
+(screenshots/Executive Overview.PNG)
 
 Provides a high-level summary of overall manufacturing performance.
 
